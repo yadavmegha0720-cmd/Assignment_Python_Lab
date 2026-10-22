@@ -1,5 +1,9 @@
 # July 2026 MSCDSA lab assignment downloads
 
+- [MCSL-065 Section 2 programming answers (Word)](MCSL-065_Section2_Programming_Answers.docx)
+  — Questions 4(a–f) and 5(a–f), answers/code and matching supplied screenshots.
+  Starts directly with Question 4(a); no front page. Includes corrected mode
+  calculations and matching Python/R histogram intervals.
 - [MCSL-065 Section 1 answers and screenshots (Word)](MCSL-065_Section1_GUI_Answers.docx)
   — Questions 1(a–e), including 1(e)(i–iv), 2(a–f), and 3(a–g); supplied screenshots
   matched to the relevant parts, plus all 16 required subject DAX measures.
@@ -19,6 +23,13 @@ The Section 1 Word document contains course information and answers only, with n
 personal ID-card details. The Documents plugin and requested Investment Committee
 Memo template were unavailable, so an editable Word layout was used. Chart images
 are supplied source illustrations; the dashboard image is identified as a blueprint.
+
+The Section 2 Word document has no personal ID-card information. All twelve
+question parts are labelled and have supplied screenshot regions/figures. Its
+Python and base R code blocks were run as complete programs: numeric summaries,
+statistical modes, totals and percentages agree, and all eight plots were saved.
+Differences in the older reference screenshots are explained beside the corrected
+answers; the source screenshots themselves are preserved.
 
 MCSL-064 solutions and recorded outputs are complete. MCSL-065 remains a review
 copy: actual Excel Analysis ToolPak, Tableau and Power BI screenshots and native
